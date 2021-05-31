@@ -1,0 +1,14 @@
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\bin\Debug\mudanzasPantallas.exe.config
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\bin\Debug\mudanzasPantallas.exe
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\bin\Debug\mudanzasPantallas.pdb
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\bin\Debug\mudanzasPantallas.xml
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.vbprojAssemblyReference.cache
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.Resources.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.vbproj.GenerateResource.cache
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.vbproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.exe
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.xml
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.pdb
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.formDatosDetalle.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.formDatosPresupuesto.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.FinalizarServicio.resources
