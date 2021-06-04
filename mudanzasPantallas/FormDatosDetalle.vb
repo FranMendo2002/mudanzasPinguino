@@ -58,27 +58,31 @@ Public Class formDatosDetalle
             MsgBox("Porfavor, no deje datos vacios en los muebles, empleados o nota de pedido")
         Else
             Dim maxDetalleConsulta As String = "select max(idDetalle)+1 from detallepedido"
-            cmd = New OdbcCommand(maxDetalleConsulta, cnn)
-            MsgBox(maxDetalleConsulta)
-            cmd.CommandType = CommandType.Text
-            rs = cmd.ExecuteReader
-            cmd.Dispose()
+            maxDetalle = consultarValor(maxDetalleConsulta)
+            MsgBox("El max idDetalle es: " & maxDetalle)
+            'cmd = New OdbcCommand(maxDetalleConsulta, cnn)
+            'MsgBox(maxDetalleConsulta)
+            'cmd.CommandType = CommandType.Text
+            'rs = cmd.ExecuteReader
+            'cmd.Dispose()
 
             ' Guardamos en la variable maxDetalle el valor del nuevo id de detalle que crearemos
-            While rs.Read = True
-                maxDetalle = rs(0)
-                MsgBox(maxDetalle)
-            End While
+            'While rs.Read = True
+            'maxDetalle = rs(0)
+            'MsgBox(maxDetalle)
+            'End While
 
             ' Ingresamos los datos en detalle pedido
             Dim ingresoDatos As String = "insert into detallepedido values(" & maxDetalle & ", " & CInt(txtNotaPedido.Text) &
                 ", " & CInt(txtMuebles.Text) & ", " & CInt(txtCamiones.Text) & ", " & CInt(txtFletes.Text) & ", " & CInt(txtEmpleados.Text) &
                 ", '" & dtimeFechaMud.Text & "');"
-            cmd = New OdbcCommand(ingresoDatos, cnn)
-            MsgBox(ingresoDatos)
-            cmd.CommandType = CommandType.Text
-            rs = cmd.ExecuteReader
-            cmd.Dispose()
+            actualizar(ingresoDatos)
+            MsgBox("Los datos de detalle pedido han sido ingresados correctamente")
+            'cmd = New OdbcCommand(ingresoDatos, cnn)
+            'MsgBox(ingresoDatos)
+            'cmd.CommandType = CommandType.Text
+            'rs = cmd.ExecuteReader
+            'cmd.Dispose()
 
             formDatosPresupuesto.Show()
             Me.Hide()

@@ -47,6 +47,9 @@
   <PropertyGroup>
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logoIcono.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -73,11 +76,11 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.vb">
+    <Compile Include="FormDatosDetalle.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <Compile Include="FormDatosDetalle.Designer.vb">
+      <DependentUpon>FormDatosDetalle.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="formDatosPresupuesto.Designer.vb">
@@ -114,8 +117,8 @@
     <EmbeddedResource Include="FinalizarServicio.resx">
       <DependentUpon>FinalizarServicio.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <EmbeddedResource Include="FormDatosDetalle.resx">
+      <DependentUpon>FormDatosDetalle.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="formDatosPresupuesto.resx">
       <DependentUpon>formDatosPresupuesto.vb</DependentUpon>
@@ -138,6 +141,9 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logoIcono.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

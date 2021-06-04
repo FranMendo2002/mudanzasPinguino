@@ -3,17 +3,18 @@ Public Class formDatosPresupuesto
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         ' Ahora guardaremos el maximo id de presupuesto
         Dim maxPresupConsulta As String = "select max(idPresupuesto)+1 from presupuesto;"
-        Dim maxPresup As Integer
-        cmd = New OdbcCommand(maxPresupConsulta, cnn)
-        cmd.CommandType = CommandType.Text
-        rs = cmd.ExecuteReader
-        cmd.Dispose()
+        Dim maxPresup As Integer = consultarValor(maxPresupConsulta)
+
+        'cmd = New OdbcCommand(maxPresupConsulta, cnn)
+        'cmd.CommandType = CommandType.Text
+        'rs = cmd.ExecuteReader
+        'cmd.Dispose()
 
         ' Guardamos en la variable maxPresup el valor del nuevo id de presupuesto que crearemos
-        While rs.Read = True
-            maxPresup = rs(0)
-            MsgBox(maxPresup)
-        End While
+        'While rs.Read = True
+        ' maxPresup = rs(0)
+        'MsgBox(maxPresup)
+        'End While
 
 
         ' Ingresamos los datos en detalle pedido
@@ -25,11 +26,12 @@ Public Class formDatosPresupuesto
 
         Dim ingresoDatos As String = "insert into presupuesto values(" & maxPresup & ", " & CInt(formDatosDetalle.txtNotaPedido.Text) &
             ", " & CInt(txtPrecio.Text) & ", '" & fechaRegistro & "', '" & fechaVencimiento & "', " & CInt(txtMontoReserva.Text) & ", 'Pendiente');"
-        cmd = New OdbcCommand(ingresoDatos, cnn)
-        MsgBox(ingresoDatos)
-        cmd.CommandType = CommandType.Text
-        rs = cmd.ExecuteReader
-        cmd.Dispose()
+        actualizar(ingresoDatos)
+        'cmd = New OdbcCommand(ingresoDatos, cnn)
+        'MsgBox(ingresoDatos)
+        'cmd.CommandType = CommandType.Text
+        'rs = cmd.ExecuteReader
+        'cmd.Dispose()
 
         MsgBox("Datos ingresados correctamente")
 

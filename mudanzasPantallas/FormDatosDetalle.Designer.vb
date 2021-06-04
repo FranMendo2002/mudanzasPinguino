@@ -22,6 +22,7 @@ Partial Class formDatosDetalle
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(formDatosDetalle))
         Me.lblTitulo = New System.Windows.Forms.Label()
         Me.btnRegistrar = New System.Windows.Forms.Button()
         Me.txtMuebles = New System.Windows.Forms.TextBox()
@@ -36,30 +37,35 @@ Partial Class formDatosDetalle
         Me.Label1 = New System.Windows.Forms.Label()
         Me.dtimeFechaMud = New System.Windows.Forms.DateTimePicker()
         Me.lblFechaMud = New System.Windows.Forms.Label()
+        Me.imgBoxLogo = New System.Windows.Forms.PictureBox()
+        CType(Me.imgBoxLogo, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'lblTitulo
         '
         Me.lblTitulo.AutoSize = True
-        Me.lblTitulo.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblTitulo.Location = New System.Drawing.Point(157, 20)
+        Me.lblTitulo.Font = New System.Drawing.Font("Bahnschrift Condensed", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblTitulo.Location = New System.Drawing.Point(189, 151)
         Me.lblTitulo.Name = "lblTitulo"
-        Me.lblTitulo.Size = New System.Drawing.Size(235, 24)
+        Me.lblTitulo.Size = New System.Drawing.Size(256, 33)
         Me.lblTitulo.TabIndex = 0
         Me.lblTitulo.Text = "Registrar detalle de pedido"
         '
         'btnRegistrar
         '
-        Me.btnRegistrar.Location = New System.Drawing.Point(190, 310)
+        Me.btnRegistrar.BackColor = System.Drawing.SystemColors.ActiveCaptionText
+        Me.btnRegistrar.Font = New System.Drawing.Font("Arial Narrow", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnRegistrar.ForeColor = System.Drawing.SystemColors.ControlLightLight
+        Me.btnRegistrar.Location = New System.Drawing.Point(253, 331)
         Me.btnRegistrar.Name = "btnRegistrar"
         Me.btnRegistrar.Size = New System.Drawing.Size(142, 40)
         Me.btnRegistrar.TabIndex = 1
         Me.btnRegistrar.Text = "Registrar"
-        Me.btnRegistrar.UseVisualStyleBackColor = True
+        Me.btnRegistrar.UseVisualStyleBackColor = False
         '
         'txtMuebles
         '
-        Me.txtMuebles.Location = New System.Drawing.Point(405, 183)
+        Me.txtMuebles.Location = New System.Drawing.Point(352, 214)
         Me.txtMuebles.Name = "txtMuebles"
         Me.txtMuebles.Size = New System.Drawing.Size(31, 20)
         Me.txtMuebles.TabIndex = 10
@@ -67,31 +73,33 @@ Partial Class formDatosDetalle
         'lblMuebles
         '
         Me.lblMuebles.AutoSize = True
-        Me.lblMuebles.Location = New System.Drawing.Point(352, 186)
+        Me.lblMuebles.Font = New System.Drawing.Font("Bahnschrift Condensed", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblMuebles.Location = New System.Drawing.Point(293, 214)
         Me.lblMuebles.Name = "lblMuebles"
-        Me.lblMuebles.Size = New System.Drawing.Size(47, 13)
+        Me.lblMuebles.Size = New System.Drawing.Size(53, 19)
         Me.lblMuebles.TabIndex = 3
         Me.lblMuebles.Text = "Muebles"
         '
         'lblFletes
         '
         Me.lblFletes.AutoSize = True
-        Me.lblFletes.Location = New System.Drawing.Point(120, 252)
+        Me.lblFletes.Font = New System.Drawing.Font("Bahnschrift Condensed", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblFletes.Location = New System.Drawing.Point(525, 214)
         Me.lblFletes.Name = "lblFletes"
-        Me.lblFletes.Size = New System.Drawing.Size(35, 13)
+        Me.lblFletes.Size = New System.Drawing.Size(41, 19)
         Me.lblFletes.TabIndex = 4
         Me.lblFletes.Text = "Fletes"
         '
         'txtCamiones
         '
-        Me.txtCamiones.Location = New System.Drawing.Point(161, 123)
+        Me.txtCamiones.Location = New System.Drawing.Point(240, 214)
         Me.txtCamiones.Name = "txtCamiones"
         Me.txtCamiones.Size = New System.Drawing.Size(31, 20)
         Me.txtCamiones.TabIndex = 5
         '
         'txtFletes
         '
-        Me.txtFletes.Location = New System.Drawing.Point(161, 249)
+        Me.txtFletes.Location = New System.Drawing.Point(572, 214)
         Me.txtFletes.Name = "txtFletes"
         Me.txtFletes.Size = New System.Drawing.Size(31, 20)
         Me.txtFletes.TabIndex = 6
@@ -99,15 +107,16 @@ Partial Class formDatosDetalle
         'lblCamiones
         '
         Me.lblCamiones.AutoSize = True
-        Me.lblCamiones.Location = New System.Drawing.Point(102, 126)
+        Me.lblCamiones.Font = New System.Drawing.Font("Bahnschrift Condensed", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblCamiones.Location = New System.Drawing.Point(173, 214)
         Me.lblCamiones.Name = "lblCamiones"
-        Me.lblCamiones.Size = New System.Drawing.Size(53, 13)
+        Me.lblCamiones.Size = New System.Drawing.Size(61, 19)
         Me.lblCamiones.TabIndex = 7
         Me.lblCamiones.Text = "Camiones"
         '
         'txtEmpleados
         '
-        Me.txtEmpleados.Location = New System.Drawing.Point(161, 183)
+        Me.txtEmpleados.Location = New System.Drawing.Point(481, 214)
         Me.txtEmpleados.Name = "txtEmpleados"
         Me.txtEmpleados.Size = New System.Drawing.Size(31, 20)
         Me.txtEmpleados.TabIndex = 8
@@ -115,15 +124,16 @@ Partial Class formDatosDetalle
         'lblEmpleados
         '
         Me.lblEmpleados.AutoSize = True
-        Me.lblEmpleados.Location = New System.Drawing.Point(96, 186)
+        Me.lblEmpleados.Font = New System.Drawing.Font("Bahnschrift Condensed", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblEmpleados.Location = New System.Drawing.Point(411, 214)
         Me.lblEmpleados.Name = "lblEmpleados"
-        Me.lblEmpleados.Size = New System.Drawing.Size(59, 13)
+        Me.lblEmpleados.Size = New System.Drawing.Size(66, 19)
         Me.lblEmpleados.TabIndex = 9
         Me.lblEmpleados.Text = "Empleados"
         '
         'txtNotaPedido
         '
-        Me.txtNotaPedido.Location = New System.Drawing.Point(161, 70)
+        Me.txtNotaPedido.Location = New System.Drawing.Point(109, 214)
         Me.txtNotaPedido.Name = "txtNotaPedido"
         Me.txtNotaPedido.Size = New System.Drawing.Size(31, 20)
         Me.txtNotaPedido.TabIndex = 2
@@ -131,9 +141,10 @@ Partial Class formDatosDetalle
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(63, 73)
+        Me.Label1.Font = New System.Drawing.Font("Bahnschrift Condensed", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(6, 214)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(92, 13)
+        Me.Label1.Size = New System.Drawing.Size(97, 19)
         Me.Label1.TabIndex = 11
         Me.Label1.Text = "ID nota de pedido"
         '
@@ -141,7 +152,7 @@ Partial Class formDatosDetalle
         '
         Me.dtimeFechaMud.CustomFormat = "yyyy-MM-dd"
         Me.dtimeFechaMud.Format = System.Windows.Forms.DateTimePickerFormat.Custom
-        Me.dtimeFechaMud.Location = New System.Drawing.Point(264, 119)
+        Me.dtimeFechaMud.Location = New System.Drawing.Point(206, 296)
         Me.dtimeFechaMud.Name = "dtimeFechaMud"
         Me.dtimeFechaMud.Size = New System.Drawing.Size(226, 20)
         Me.dtimeFechaMud.TabIndex = 14
@@ -149,17 +160,28 @@ Partial Class formDatosDetalle
         'lblFechaMud
         '
         Me.lblFechaMud.AutoSize = True
-        Me.lblFechaMud.Location = New System.Drawing.Point(294, 64)
+        Me.lblFechaMud.Font = New System.Drawing.Font("Bahnschrift Condensed", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblFechaMud.Location = New System.Drawing.Point(147, 259)
         Me.lblFechaMud.Name = "lblFechaMud"
-        Me.lblFechaMud.Size = New System.Drawing.Size(164, 26)
+        Me.lblFechaMud.Size = New System.Drawing.Size(349, 19)
         Me.lblFechaMud.TabIndex = 15
-        Me.lblFechaMud.Text = "Porfavor, seleccione la fecha " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "en la que se realizara la mudanza"
+        Me.lblFechaMud.Text = "Porfavor, seleccione la fecha en la que se realizara la mudanza"
+        '
+        'imgBoxLogo
+        '
+        Me.imgBoxLogo.Image = CType(resources.GetObject("imgBoxLogo.Image"), System.Drawing.Image)
+        Me.imgBoxLogo.Location = New System.Drawing.Point(151, 12)
+        Me.imgBoxLogo.Name = "imgBoxLogo"
+        Me.imgBoxLogo.Size = New System.Drawing.Size(361, 116)
+        Me.imgBoxLogo.TabIndex = 16
+        Me.imgBoxLogo.TabStop = False
         '
         'formDatosDetalle
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(532, 387)
+        Me.ClientSize = New System.Drawing.Size(637, 392)
+        Me.Controls.Add(Me.imgBoxLogo)
         Me.Controls.Add(Me.lblFechaMud)
         Me.Controls.Add(Me.dtimeFechaMud)
         Me.Controls.Add(Me.Label1)
@@ -174,8 +196,10 @@ Partial Class formDatosDetalle
         Me.Controls.Add(Me.txtMuebles)
         Me.Controls.Add(Me.btnRegistrar)
         Me.Controls.Add(Me.lblTitulo)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "formDatosDetalle"
         Me.Text = "Datos detalle"
+        CType(Me.imgBoxLogo, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -195,4 +219,5 @@ Partial Class formDatosDetalle
     Friend WithEvents Label1 As Label
     Friend WithEvents dtimeFechaMud As DateTimePicker
     Friend WithEvents lblFechaMud As Label
+    Friend WithEvents imgBoxLogo As PictureBox
 End Class
