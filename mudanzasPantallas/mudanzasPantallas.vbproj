@@ -76,23 +76,23 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FormDatosDetalle.vb">
+    <Compile Include="Datos_Detalle.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormDatosDetalle.Designer.vb">
-      <DependentUpon>FormDatosDetalle.vb</DependentUpon>
+    <Compile Include="Datos_Detalle.Designer.vb">
+      <DependentUpon>Datos_Detalle.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formDatosPresupuesto.Designer.vb">
-      <DependentUpon>formDatosPresupuesto.vb</DependentUpon>
+    <Compile Include="Datos_Presupuesto.Designer.vb">
+      <DependentUpon>Datos_Presupuesto.vb</DependentUpon>
     </Compile>
-    <Compile Include="formDatosPresupuesto.vb">
+    <Compile Include="Datos_Presupuesto.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FinalizarServicio.Designer.vb">
-      <DependentUpon>FinalizarServicio.vb</DependentUpon>
+    <Compile Include="Finalizar_Servicio.Designer.vb">
+      <DependentUpon>Finalizar_Servicio.vb</DependentUpon>
     </Compile>
-    <Compile Include="FinalizarServicio.vb">
+    <Compile Include="Finalizar_Servicio.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Module1.vb" />
@@ -114,14 +114,14 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="FinalizarServicio.resx">
-      <DependentUpon>FinalizarServicio.vb</DependentUpon>
+    <EmbeddedResource Include="Finalizar_Servicio.resx">
+      <DependentUpon>Finalizar_Servicio.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormDatosDetalle.resx">
-      <DependentUpon>FormDatosDetalle.vb</DependentUpon>
+    <EmbeddedResource Include="Datos_Detalle.resx">
+      <DependentUpon>Datos_Detalle.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formDatosPresupuesto.resx">
-      <DependentUpon>formDatosPresupuesto.vb</DependentUpon>
+    <EmbeddedResource Include="Datos_Presupuesto.resx">
+      <DependentUpon>Datos_Presupuesto.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

@@ -9,6 +9,6 @@ C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanz
 C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.exe
 C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.xml
 C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.pdb
-C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.formDatosDetalle.resources
-C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.formDatosPresupuesto.resources
-C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.FinalizarServicio.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.Finalizar_Servicio.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.Datos_Detalle.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Mudanzas Pinguino\mudanzasPantallas\mudanzasPantallas\obj\Debug\mudanzasPantallas.Datos_Presupuesto.resources

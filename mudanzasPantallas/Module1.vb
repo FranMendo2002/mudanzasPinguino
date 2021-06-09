@@ -30,7 +30,6 @@ Module Module1
             cmd.CommandType = CommandType.Text
             rs = cmd.ExecuteReader()
             cmd.Dispose()
-            MsgBox("Actualizacion realizada correctamente")
         Catch ex As Exception
             MsgBox("No se pudo realizar la actualizacion correctamente. Intente de nuevo")
         End Try
