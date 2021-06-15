@@ -4,7 +4,10 @@ Public Class Datos_Presupuesto
         ' Ahora guardaremos el maximo id de presupuesto
         Dim maxPresupConsulta As String = "select max(idPresupuesto)+1 from presupuesto;"
         Dim maxPresup As Integer = consultarValor(maxPresupConsulta)
-
+        Dim ingresoDetalle As String = Datos_Detalle.ingresoDatos
+        ' El ingreso del detalle pedido se hara aca para evitar errores por si se intenta cerrar el programa
+        actualizar(ingresoDetalle)
+        MsgBox(ingresoDetalle)
 
         ' Ingresamos los datos en detalle pedido
 
@@ -19,8 +22,8 @@ Public Class Datos_Presupuesto
 
         MsgBox("Datos de presupuesto " & maxPresup & " ingresados correctamente")
 
-        Datos_Detalle.Show()
-        Me.Close()
+        Inicio.Show()
+        Me.Hide()
     End Sub
 
     Private Sub txtMontoReserva_KeyPress(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyPressEventArgs) Handles txtMontoReserva.KeyPress
@@ -41,9 +44,6 @@ Public Class Datos_Presupuesto
     End Sub
     Private Sub Datos_Presupuesto_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
         If MessageBox.Show("¿Desea cerrar el formulario? De ser asi, los datos ingresados al registrar el ultimo detalle de pedido seran eliminados de la base de datos. Presione cancelar para registrar el presupuesto", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = DialogResult.Yes Then
-            Dim actualizacion As String = "delete from detallepedido where idDetalle = " & Datos_Detalle.maxDetalle
-            'MsgBox(actualizacion)
-            'actualizar(actualizacion)
             e.Cancel = False
         Else
             e.Cancel = True

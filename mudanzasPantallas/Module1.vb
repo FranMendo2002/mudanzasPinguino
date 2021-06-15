@@ -12,7 +12,7 @@ Module Module1
 
     Public Sub conexion()
         Try
-            cnn = New OdbcConnection("DSN=mudanzas")
+            cnn = New OdbcConnection("DSN=mudanzasFinal")
             cnn.Open()
             MsgBox("Conexion satisfactoria")
         Catch ex As Exception
