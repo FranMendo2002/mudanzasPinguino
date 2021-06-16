@@ -1,0 +1,12 @@
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\bin\Debug\Mudanzas Pinguino.exe
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\bin\Debug\Mudanzas Pinguino.pdb
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\bin\Debug\Mudanzas Pinguino.xml
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\obj\x86\Debug\Mudanzas_Pinguino.Resources.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\obj\x86\Debug\Mudanzas Pinguino.vbproj.GenerateResource.Cache
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\obj\x86\Debug\Mudanzas Pinguino.exe
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\obj\x86\Debug\Mudanzas Pinguino.xml
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\obj\x86\Debug\Mudanzas Pinguino.pdb
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\obj\x86\Debug\Mudanzas_Pinguino.IngresarSolicitudServicio.resources
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\obj\x86\Debug\Mudanzas_Pinguino.IngresarCliente.resources
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\obj\x86\Debug\Mudanzas_Pinguino.IngresarDetallePedido.resources
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pinguino\Mudanzas Pinguino\obj\x86\Debug\Mudanzas_Pinguino.NotaPedido.resources
