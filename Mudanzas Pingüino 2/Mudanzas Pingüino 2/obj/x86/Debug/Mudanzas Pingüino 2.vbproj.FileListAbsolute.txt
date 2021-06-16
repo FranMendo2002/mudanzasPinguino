@@ -1,0 +1,11 @@
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino 2\Mudanzas Pingüino 2\bin\Debug\Mudanzas Pingüino 2.exe
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino 2\Mudanzas Pingüino 2\bin\Debug\Mudanzas Pingüino 2.pdb
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino 2\Mudanzas Pingüino 2\bin\Debug\Mudanzas Pingüino 2.xml
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino 2\Mudanzas Pingüino 2\obj\x86\Debug\Mudanzas_Pingüino_2.Resources.resources
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino 2\Mudanzas Pingüino 2\obj\x86\Debug\Mudanzas Pingüino 2.vbproj.GenerateResource.Cache
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino 2\Mudanzas Pingüino 2\obj\x86\Debug\Mudanzas Pingüino 2.exe
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino 2\Mudanzas Pingüino 2\obj\x86\Debug\Mudanzas Pingüino 2.xml
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino 2\Mudanzas Pingüino 2\obj\x86\Debug\Mudanzas Pingüino 2.pdb
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino 2\Mudanzas Pingüino 2\obj\x86\Debug\Mudanzas_Pingüino_2.IngresarDaños.resources
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino 2\Mudanzas Pingüino 2\obj\x86\Debug\Mudanzas_Pingüino_2.IngresarCheque.resources
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino 2\Mudanzas Pingüino 2\obj\x86\Debug\Mudanzas_Pingüino_2.Cheque.resources
