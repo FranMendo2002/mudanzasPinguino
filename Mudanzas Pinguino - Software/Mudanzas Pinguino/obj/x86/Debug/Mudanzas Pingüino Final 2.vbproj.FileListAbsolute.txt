@@ -1,0 +1,54 @@
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.BorrarPresupuestos.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.Cheque.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.Datos_Detalle.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.Finalizar_Servicio.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.IngresarCheque.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.IngresarCliente.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.IngresarDaños.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.IngresarSolicitudServicio.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.Inicio.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.Resources.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.NotaPedido.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.ProcesarPresupuesto.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.ProcesarPresupuesto2.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.procesarReserva.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.RegistrarRecibo.resources
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas Pingüino Final 2.vbproj.GenerateResource.Cache
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\bin\Debug\Mudanzas Pingüino Final 2.exe
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\bin\Debug\Mudanzas Pingüino Final 2.pdb
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\bin\Debug\Mudanzas Pingüino Final 2.xml
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas Pingüino Final 2.exe
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas Pingüino Final 2.xml
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas Pingüino Final 2.pdb
+c:\users\e470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.FormInsert.resources
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.CancelarServicio.resources
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.IngresoUsuario.resources
+C:\Users\E470\documents\visual studio 2010\Projects\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.procesarReserva1.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\bin\Debug\Mudanzas Pingüino Final 2.exe
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\bin\Debug\Mudanzas Pingüino Final 2.pdb
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\bin\Debug\Mudanzas Pingüino Final 2.xml
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas Pingüino Final 2.vbprojAssemblyReference.cache
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.BorrarPresupuestos.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.CancelarServicio.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.Cheque.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.Datos_Detalle.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.Finalizar_Servicio.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.IngresarSolicitudServicio.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.IngresoUsuario.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.FormInsert.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.IngresarCheque.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.IngresarCliente.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.IngresarDaños.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.Inicio.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.Resources.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.NotaPedido.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.ProcesarPresupuesto.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.ProcesarPresupuesto2.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.procesarReserva.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.procesarReserva1.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas_Pingüino_Final_2.RegistrarRecibo.resources
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas Pingüino Final 2.vbproj.GenerateResource.cache
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas Pingüino Final 2.vbproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas Pingüino Final 2.exe
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas Pingüino Final 2.xml
+C:\Users\DIEGO\Desktop\Trabajos Franco\Colegio 6to\Desarrollo de Sistemas\Entrega Final Mudanzas Pingüino\Mudanzas Pingüino Final 2\Mudanzas Pingüino Final 2\obj\x86\Debug\Mudanzas Pingüino Final 2.pdb

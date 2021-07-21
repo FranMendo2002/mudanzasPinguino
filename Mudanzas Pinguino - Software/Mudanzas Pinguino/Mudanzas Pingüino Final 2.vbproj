@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3B328FE6-5F89-4407-A6D9-E89668A1F3E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Mudanzas_Pingüino_Final_2.My.MyApplication</StartupObject>
+    <RootNamespace>Mudanzas_Pingüino_Final_2</RootNamespace>
+    <AssemblyName>Mudanzas Pingüino Final 2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Mudanzas Pingüino Final 2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Mudanzas Pingüino Final 2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BorrarPresupuestos.designer.vb">
+      <DependentUpon>BorrarPresupuestos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BorrarPresupuestos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CancelarServicio.designer.vb">
+      <DependentUpon>CancelarServicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CancelarServicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cheque.designer.vb">
+      <DependentUpon>Cheque.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cheque.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datos_Detalle.designer.vb">
+      <DependentUpon>Datos_Detalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Datos_Detalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Finalizar_Servicio.designer.vb">
+      <DependentUpon>Finalizar_Servicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Finalizar_Servicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresarSolicitudServicio.designer.vb">
+      <DependentUpon>IngresarSolicitudServicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IngresarSolicitudServicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoUsuario.designer.vb">
+      <DependentUpon>IngresoUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInsert.designer.vb">
+      <DependentUpon>FormInsert.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormInsert.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresarCheque.designer.vb">
+      <DependentUpon>IngresarCheque.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IngresarCheque.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresarCliente.designer.vb">
+      <DependentUpon>IngresarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IngresarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresarDaños.designer.vb">
+      <DependentUpon>IngresarDaños.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IngresarDaños.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.designer.vb">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuleIglesias.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NotaPedido.designer.vb">
+      <DependentUpon>NotaPedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NotaPedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcesarPresupuesto.designer.vb">
+      <DependentUpon>ProcesarPresupuesto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProcesarPresupuesto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcesarPresupuesto2.designer.vb">
+      <DependentUpon>ProcesarPresupuesto2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProcesarPresupuesto2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="procesarReserva.designer.vb">
+      <DependentUpon>procesarReserva.vb</DependentUpon>
+    </Compile>
+    <Compile Include="procesarReserva.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="procesarReserva1.designer.vb">
+      <DependentUpon>procesarReserva1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="procesarReserva1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarRecibo.designer.vb">
+      <DependentUpon>RegistrarRecibo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarRecibo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BorrarPresupuestos.resx">
+      <DependentUpon>BorrarPresupuestos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancelarServicio.resx">
+      <DependentUpon>CancelarServicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cheque.resx">
+      <DependentUpon>Cheque.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Datos_Detalle.resx">
+      <DependentUpon>Datos_Detalle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Finalizar_Servicio.resx">
+      <DependentUpon>Finalizar_Servicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresarSolicitudServicio.resx">
+      <DependentUpon>IngresarSolicitudServicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoUsuario.resx">
+      <DependentUpon>IngresoUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInsert.resx">
+      <DependentUpon>FormInsert.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresarCheque.resx">
+      <DependentUpon>IngresarCheque.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresarCliente.resx">
+      <DependentUpon>IngresarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresarDaños.resx">
+      <DependentUpon>IngresarDaños.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotaPedido.resx">
+      <DependentUpon>NotaPedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcesarPresupuesto.resx">
+      <DependentUpon>ProcesarPresupuesto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcesarPresupuesto2.resx">
+      <DependentUpon>ProcesarPresupuesto2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="procesarReserva.resx">
+      <DependentUpon>procesarReserva.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="procesarReserva1.resx">
+      <DependentUpon>procesarReserva1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarRecibo.resx">
+      <DependentUpon>RegistrarRecibo.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
